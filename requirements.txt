@@ -1,6 +1,10 @@
 ipykernel
 numpy
 pyyaml
+tqdm
 langchain
+langchain-ollama
+langchain-community
 ollama
 faiss-cpu
+PyPDF2
